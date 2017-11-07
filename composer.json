@@ -1,0 +1,15 @@
+{
+  "name": "bea/bea-acf-post-type-selector",
+  "description": "Provide an ACF Field for selecting existing post types into checkboxes.",
+  "license": "GPL-2.0",
+  "authors": [
+    {
+      "name": "Be API",
+      "email": "technical@beapi.fr"
+    }
+  ],
+  "type" : "wordpress-plugin",
+  "require" : {
+    "composer/installers" : "~1.0"
+  }
+}
